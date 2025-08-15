@@ -1,0 +1,15 @@
+pandas
+numpy
+pyarrow
+fastparquet
+scikit-learn
+lightgbm
+xgboost
+networkx
+matplotlib
+seaborn
+joblib
+nltk
+regex
+shap
+tensorflow-cpu
